@@ -19,6 +19,11 @@
 ]]></content>
   </entry>
   <entry>
+    <title>onetext</title>
+    <url>/2022/06/11/onetext/</url>
+    <content><![CDATA[<h1 id="111111111111111111111111111111111111111"><a href="#111111111111111111111111111111111111111" class="headerlink" title="111111111111111111111111111111111111111"></a>111111111111111111111111111111111111111</h1>]]></content>
+  </entry>
+  <entry>
     <title>创建对象的几种方式</title>
     <url>/2022/05/03/%E5%8E%9F%E5%9E%8B%20%E5%8E%9F%E5%9E%8B%E9%93%BE%20%E7%BB%A7%E6%89%BF/</url>
     <content><![CDATA[<h3 id="通过字面量"><a href="#通过字面量" class="headerlink" title="通过字面量"></a>通过字面量</h3><figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> o1 = &#123;<span class="attr">name</span>:<span class="string">&#x27;o1&#x27;</span>&#125;</span><br><span class="line"><span class="keyword">var</span> o2 = <span class="keyword">new</span> <span class="title class_">Object</span>(&#123;<span class="attr">name</span>:<span class="string">&#x27;o2&#x27;</span>&#125;)</span><br></pre></td></tr></table></figure>
@@ -189,10 +194,5 @@
 <li><a href="https://juejin.cn/post/6844903696111763470">JavaScript常用八种继承方案</a></li>
 </ol>
 ]]></content>
-  </entry>
-  <entry>
-    <title>onetext</title>
-    <url>/2022/06/11/onetext/</url>
-    <content><![CDATA[<h1 id="111111111111111111111111111111111111111"><a href="#111111111111111111111111111111111111111" class="headerlink" title="111111111111111111111111111111111111111"></a>111111111111111111111111111111111111111</h1>]]></content>
   </entry>
 </search>
